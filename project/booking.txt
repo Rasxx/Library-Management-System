@@ -1,0 +1,12 @@
+************* Customer information *************
+
+-Name :Abduallah
+-Phone number : 501156766
+-Addrerss : Ryiadh
+-Membership : false
+-ID :1016657236
+-Date : 2022-05-07
+-Duration : 4
+-Resirvation number : 1
+-Pick Up Date : Sat Aug 20 00:00:00 AST 2022
+-Status : Confirmed
